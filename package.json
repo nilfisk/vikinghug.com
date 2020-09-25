@@ -31,7 +31,7 @@
     "gulp-rename": "^1.2.0",
     "gulp-stylus": "^0.1.0",
     "gulp-util": "^2.2.14",
-    "handlebars": "^2.0.0-alpha.4",
+    "handlebars": "^4.7.6",
     "hbs": "^2.7.0",
     "js-yaml": "^3.0.2",
     "marked": "^0.3.2",
